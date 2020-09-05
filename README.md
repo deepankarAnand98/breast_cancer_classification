@@ -9,6 +9,10 @@ The original dataset is imbalanced. I applied SMOTE to balance the dataset
 ## Todo
 1. Update README File
 2. Add EDA ipython notebook
+3. Update html and css files
 
 ## License
 
+[MIT License](https://github.com/deepankarAnand98/breast_cancer_classification/blob/master/LICENSE)
+
+Copyright (c) 2020 deepankarAnand98
